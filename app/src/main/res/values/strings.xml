@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewSample</string>
+    <string name="header_text">タップしてリスト表示</string>
+</resources>
